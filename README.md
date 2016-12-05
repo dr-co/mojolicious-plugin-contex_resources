@@ -1,2 +1,4 @@
 # mojolicious-plugin-contex_resources
-Mojolicious plugin for automatic include javascript and stylesheet by controller/action path.
+
+Mojolicious::Plugin::ContextResources - Mojolicious plugin for automatic
+use javascript and stylesheet like a templates, by controller/action path.
